@@ -1,0 +1,6 @@
+{
+  "name": "MediTrack",
+  "description": "SaaS application that tracks medicine schedules, parses doctor prescriptions, reminds you to eat medicine, and tracks inventory stock levels to coordinate timely restocking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
